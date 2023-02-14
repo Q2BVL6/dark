@@ -1,5 +1,5 @@
 googletrans==4.0.0rc1
-pyrogram==1.4.16
+pyrogram==1.4.19
 meval==2.5
 tgcrypto
 speedtest-cli
